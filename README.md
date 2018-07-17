@@ -8,7 +8,8 @@
 
 **Thoughts:** It took a fair amount of time to understand and grasp the concept of virtualenv, but totally worth it. Shout out to Gergely Szerovay for explaining everything so well.
 
-**Gergley Szerovay's blog article on setting up python for ML:**[Gergley Szerovay](https://medium.freecodecamp.org/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c)
+**Gergley Szerovay's blog article on setting up python for ML:**
+[Gergley Szerovay](https://medium.freecodecamp.org/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c)
 
 ### Day 1: July 17, 2018
 
@@ -16,4 +17,5 @@
 
 **Thoughts:** Moving from c# to python is not easy, but it's happening. While the basic syntax is not very different, things are just done very differently in python. It's annoying, but has to be done.
 
-**Tensorflow tutorial link**[tensorflow tutorial](https://learningtensorflow.com/index.html)
+**Tensorflow tutorial link:**
+[tensorflow tutorial](https://learningtensorflow.com/index.html)
