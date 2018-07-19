@@ -19,3 +19,15 @@
 
 **Tensorflow tutorial link:**
 [tensorflow tutorial](https://learningtensorflow.com/index.html)
+
+### Day 2: July 18, 2018
+
+**Today's Progress:** Started learning tensorflow basics. Apparently Tensorflow's ability to make calculations only when needed is super useful.
+
+**Thoughts:** Still quite faraway from understanding why Tensorflow is the winner when it comes to deep learning.
+
+### Day 3: July 19, 2018
+
+**Today's Progress:** Still playing with the basics of Tensorflow. Learnt how to use Jupyter notebook, placeholders, see visualisations on Tensorboard etc.
+
+**Thoughts:** Wow, this is slow. The thing is, I am not really sure why I am learning what I am learning. But it's ok.
